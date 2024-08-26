@@ -2,3 +2,17 @@ html {
   height: 100%;
   width: 100%;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+main,
+footer,
+section[aria-label="Subscribe example"] {
+  width: 100%;
+  max-width: 800px;
+}
