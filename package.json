@@ -1,0 +1,19 @@
+{
+  "name": "cocksuckers",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ins1d30ut/Cocksuckers.git"
+  },
+  "author": "ins1d30ut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ins1d30ut/Cocksuckers/issues"
+  },
+  "homepage": "https://github.com/ins1d30ut/Cocksuckers#readme",
+  "description": ""
+}

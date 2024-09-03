@@ -3,13 +3,24 @@ html {
   width: 100%;
 }
 body {
-  display: flex;
+  /* background-color: rgb(41, 44, 195); */
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   margin: 0;
   text-align: center;
 }
+.p1 {
+  color: slategray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+/* #para1 {
+  color: aquamarine;
+} */
 main,
 footer,
 section[aria-label="Subscribe example"] {
